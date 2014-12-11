@@ -19,6 +19,18 @@ namespace Kwadratowa
             c=Console.Read();
             delta=(math)
 
+                if (delta>0)
+                    Kwadratowa(a,b,c);
+
+
+
+            
+
+
+
+
+
+
 
 
         }
