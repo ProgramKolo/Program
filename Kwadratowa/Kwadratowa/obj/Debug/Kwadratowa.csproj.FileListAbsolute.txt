@@ -1,0 +1,2 @@
+C:\Users\Michał Wróblewski\Documents\GitHub\Program\Kwadratowa\Kwadratowa\bin\Debug\Kwadratowa.exe.config
+C:\Users\Michał Wróblewski\Documents\Visual Studio 2013\Projects\Kwadratowa\Kwadratowa\bin\Debug\Kwadratowa.exe.config
